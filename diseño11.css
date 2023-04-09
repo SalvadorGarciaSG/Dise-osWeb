@@ -1,0 +1,80 @@
+*{
+    background-color:;
+    color: ;
+    font-size: ;
+
+    margin: ;
+    border: ;
+    padding: ;
+    
+    width: ;
+    height: ;
+}
+
+body {
+}
+
+header {
+    background-color: black;
+    color: white;
+
+    text-align: center;
+    font-size: ;
+
+    margin: 1%;
+    border: 1%;
+    padding: 1%;
+}
+
+nav {
+    background-color: ;
+    color: ;
+
+    text-align: center;
+    font-size: 50px;
+
+    margin: 1%;
+    border: 1%;
+    padding: 1%;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#Seccion1 {
+    background-color: aqua;
+    color: ;
+
+    text-align: center;
+    font-size: ;
+
+    margin: 1%;
+    border: 1%;
+    padding: 20%;
+}
+
+#Seccion2 {
+    background-color: aquamarine;
+    color: ;
+
+    text-align: center;
+    font-size: ;
+
+    margin: 1%;
+    border: 1%;
+    padding: 20%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+
+    text-align: center;
+    font-size: ;
+
+    margin: 1%;
+    border: 1%;
+    padding: 1%;
+}

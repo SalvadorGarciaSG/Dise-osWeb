@@ -1,0 +1,80 @@
+*{
+    background-color:;
+    color: ;
+    font-size: ;
+
+    margin: ;
+    border: ;
+    padding: ;
+    
+    width: ;
+    height: ;
+}
+
+@media screen and (min-width: 750px) {
+    /*Falta la Clase */ {
+        background-color: antiquewhite;
+        border: 2px solid black;
+        grid-column: span ;
+    }    
+}
+
+@media screen and (max-width: 750px) {
+     /*Falta la Clase */ {
+        background-color: greenyellow;
+        border: 2px solid green;
+        grid-column: span ;   
+    }
+}
+
+body {
+    /*Pagina al 100%*/
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh; 
+}
+
+header {
+    background-color:;
+    color: ;    
+
+    text-align: center;
+    font-size: 25px;
+
+    margin: 1%;
+    border: solid white;
+    padding: 1%;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+}
+
+main {
+
+}
+
+#Div {
+    background-color: white;
+    color: black ;
+
+    text-align: center;
+    font-size: ;
+
+    border: solid white;
+    padding: 8%
+}
+
+footer {
+    background-color: black;
+    color: ;
+
+    text-align: center;
+    font-size: ;
+
+    margin: 1%;
+    border: solid white;
+    padding: 1%;
+}
